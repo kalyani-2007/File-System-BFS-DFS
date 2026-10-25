@@ -1,0 +1,5 @@
+BFS Traversal: Root Documents Pictures notes.txt photo.jpg
+BFS: File FOUND
+
+DFS Traversal: Root Documents notes.txt Pictures photo.jpg
+DFS: File FOUND
